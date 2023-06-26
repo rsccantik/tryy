@@ -14,7 +14,7 @@ Nama Website : Warehouse Of Books
 Warehouse Of Books adalah sebuah website yang dirancang khusus untuk membantu admin dalam mengatur dan mengelola ketersediaan buku di sebuah perpustakaan. Website ini memberikan kemudahan bagi admin untuk mengecek ketersediaan buku, melihat data order buku dari customer. Website ini dirancang untuk satu peran utama, yaitu Admin, dengan fitur-fitur yang disesuaikan sesuai peran.
 
 ### 1. Role Admin:
-![dashboard](...........)
+![valo](https://github.com/rsccantik/tryy/assets/103765178/c954fe48-cbf7-4932-9360-060994b93326)
 
 Sebagai admin di Warehouse Of Books, Anda memiliki akses penuh untuk mengelola ketersediaan buku. Berikut adalah fitur-fitur yang tersedia untuk Anda:
 - Register : Fitur Register akan membutuhkan nama, email, dan password agar bisa menjadi admin.
